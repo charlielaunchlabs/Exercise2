@@ -1,0 +1,6 @@
+/Users/launchlabs/Projects/Exercise2/Exercise2/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/launchlabs/Projects/Exercise2/Exercise2/bin/Release/Exercise2.dll
+/Users/launchlabs/Projects/Exercise2/Exercise2/obj/Release/Exercise2.dll
+/Users/launchlabs/Projects/Exercise2/Exercise2/bin/Release/Xamarin.Forms.Core.dll
+/Users/launchlabs/Projects/Exercise2/Exercise2/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/launchlabs/Projects/Exercise2/Exercise2/bin/Release/Xamarin.Forms.Platform.dll

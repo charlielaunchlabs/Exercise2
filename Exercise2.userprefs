@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="iOS/Exercise2.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercise2/MainPage.cs">
+    <Files>
+      <File FileName="Exercise2/MyPage.cs" Line="1" Column="1" />
+      <File FileName="Exercise2/Exercise2.cs" Line="13" Column="32" />
+      <File FileName="Exercise2/MasterPage.cs" Line="55" Column="44" />
+      <File FileName="Exercise2/MainPage.cs" Line="56" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Exercise2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6354EB67-23AE-4010-822D-FC8F03D1E865" />
+  <MonoDevelop.Ide.ItemProperties.Exercise2.Droid PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+</Properties>
